@@ -54,6 +54,7 @@
   --dl-space-space-fourunits: 64px;
   --dl-space-space-threeunits: 48px;
   --dl-space-space-oneandhalfunits: 24px;
+  background-color: #0b7285;
 }
 .button {
   color: var(--dl-color-gray-black);
@@ -112,4 +113,46 @@
   line-height: 1.15;
   text-transform: none;
   text-decoration: none;
+}
+
+@media (min-width: 1400px) {
+  .desktop-container {
+    display: initial;
+  }
+
+  .mobile-container {
+    display: none;
+  }
+
+  .tablet-container {
+    display: none;
+  }
+}
+
+@media (min-width: 781px) and (max-width: 1399px) {
+  .tablet-container {
+    display: initial;
+  }
+
+  .desktop-container {
+    display: none;
+  }
+
+  .mobile-container {
+    display: none;
+  }
+}
+
+@media (max-width: 780px) {
+  .desktop-container {
+    display: none;
+  }
+
+  .mobile-container {
+    display: initial;
+  }
+
+  .tablet-container {
+    display: none;
+  }
 }
