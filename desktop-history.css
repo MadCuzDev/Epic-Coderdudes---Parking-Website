@@ -1,0 +1,427 @@
+.desktop-history-container {
+  min-height: 100vh;
+}
+.desktop-history-desktop-history {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(11, 114, 133, 1);
+}
+.desktop-history-nav-bar {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 91px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.desktop-history-nav-bounds {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 91px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop-history-rectangle6 {
+  top: 36px;
+  left: 43px;
+  width: 163px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop-history-text {
+  top: 51px;
+  left: 91px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop-history-rectangle7 {
+  top: 36px;
+  left: 322px;
+  width: 163px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop-history-text02 {
+  top: 51px;
+  left: 333px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop-history-rectangle3 {
+  top: 36px;
+  left: 601px;
+  width: 163px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop-history-text04 {
+  top: 51px;
+  left: 625px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop-history-rectangle4 {
+  top: 36px;
+  left: 880px;
+  width: 163px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop-history-text06 {
+  top: 51px;
+  left: 920px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.desktop-history-car-side-view {
+  top: 20px;
+  left: 1302px;
+  width: 100px;
+  height: 70px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.desktop-history-ellipse1 {
+  top: 46px;
+  left: 65px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop-history-ellipse2 {
+  top: 45px;
+  left: 13px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border-color: transparent;
+}
+.desktop-history-rectangle2 {
+  top: 3px;
+  left: 12px;
+  width: 62px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.desktop-history-car-side-view1 {
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  height: 70px;
+  position: absolute;
+}
+.desktop-history-contentbounds {
+  top: 128px;
+  left: 39px;
+  width: 1361px;
+  height: 879px;
+  position: absolute;
+  border-color: rgba(34, 184, 207, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+}
+.desktop-history-cardcontentbounds {
+  top: 228px;
+  left: 66px;
+  width: 938px;
+  height: 385px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.desktop-history-historycard2 {
+  top: 423px;
+  left: 85px;
+  width: 900px;
+  height: 137px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.desktop-history-text08 {
+  top: 104px;
+  left: 768px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-text10 {
+  top: 104px;
+  left: 550px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-line6 {
+  top: 137px;
+  left: 0px;
+  width: 900px;
+  height: 0px;
+  position: absolute;
+}
+.desktop-history-text12 {
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-text14 {
+  top: 47px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-historycard1 {
+  top: 258px;
+  left: 85px;
+  width: 900px;
+  height: 137px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.desktop-history-text16 {
+  top: 104px;
+  left: 768px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-text18 {
+  top: 104px;
+  left: 550px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-line5 {
+  top: 137px;
+  left: 0px;
+  width: 900px;
+  height: 0px;
+  position: absolute;
+}
+.desktop-history-text20 {
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-text22 {
+  top: 47px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-history-filter-icon {
+  top: 153px;
+  left: 912px;
+  width: 50px;
+  height: 57px;
+  position: absolute;
+}
+.desktop-history-header {
+  top: 151px;
+  left: 85px;
+  width: 235px;
+  height: 39px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.desktop-history-text24 {
+  color: rgba(33, 37, 41, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

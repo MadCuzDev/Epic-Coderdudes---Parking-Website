@@ -1,0 +1,484 @@
+.tablet-find-parking-container {
+  min-height: 100vh;
+}
+.tablet-find-parking-tablet-find-parking {
+  width: 100%;
+  height: 1133px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(11, 114, 133, 1);
+}
+.tablet-find-parking-tablet-nav-bar {
+  top: 0px;
+  left: 0px;
+  width: 744px;
+  height: 91px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tablet-find-parking-nav-bounds {
+  top: 0px;
+  left: 0px;
+  width: 749px;
+  height: 91px;
+  position: absolute;
+  border-color: transparent;
+}
+.tablet-find-parking-group1 {
+  top: 37px;
+  left: 25px;
+  width: 130.3800048828125px;
+  height: 55px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 184, 207, 1);
+}
+.tablet-find-parking-text {
+  top: 17px;
+  left: 34px;
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-group2 {
+  top: 37px;
+  left: 182px;
+  width: 133px;
+  height: 55px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.tablet-find-parking-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 130px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.tablet-find-parking-text02 {
+  top: 14px;
+  left: 6.125px;
+  color: rgba(242, 242, 242, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-group3 {
+  top: 36px;
+  left: 341px;
+  width: 130.3800048828125px;
+  height: 55px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 184, 207, 1);
+}
+.tablet-find-parking-text04 {
+  top: 14px;
+  left: 18px;
+  color: rgba(242, 242, 242, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-group4 {
+  top: 36px;
+  left: 498px;
+  width: 130.3800048828125px;
+  height: 55px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 184, 207, 1);
+}
+.tablet-find-parking-text06 {
+  top: 16px;
+  left: 29px;
+  color: rgba(242, 242, 242, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-car-side-view {
+  top: 40px;
+  left: 659px;
+  width: 71px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.tablet-find-parking-ellipse1 {
+  top: 32.85714340209961px;
+  left: 46.42857360839844px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+}
+.tablet-find-parking-ellipse2 {
+  top: 32.14285659790039px;
+  left: 9.285714149475098px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+}
+.tablet-find-parking-rectangle2 {
+  top: 2.142857074737549px;
+  left: 8.571429252624512px;
+  width: 44px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.tablet-find-parking-car-side-view1 {
+  top: 0px;
+  left: 0px;
+  width: 71px;
+  height: 50px;
+  position: absolute;
+}
+.tablet-find-parking-uppercontentbounds {
+  top: 123px;
+  left: 15px;
+  width: 716px;
+  height: 996px;
+  position: absolute;
+  border-color: rgba(34, 184, 207, 1);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+}
+.tablet-find-parking-filter-icon {
+  top: 142px;
+  left: 646px;
+  width: 32px;
+  height: 37px;
+  position: absolute;
+}
+.tablet-find-parking-findparkingcard1 {
+  top: 722px;
+  left: 57px;
+  width: 357px;
+  height: 112px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(194, 199, 205, 1);
+}
+.tablet-find-parking-text08 {
+  top: 23px;
+  left: 114px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-text13 {
+  top: 45px;
+  left: 13px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-text15 {
+  top: 54px;
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-text17 {
+  top: 71px;
+  left: 113px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-line2 {
+  top: 8px;
+  left: 93px;
+  width: 98px;
+  height: 0px;
+  position: absolute;
+}
+.tablet-find-parking-findparkingcard2 {
+  top: 855px;
+  left: 58px;
+  width: 440px;
+  height: 112px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.tablet-find-parking-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 357px;
+  height: 112px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.tablet-find-parking-text19 {
+  top: 43px;
+  left: 13px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-text21 {
+  top: 52px;
+  left: 54px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-line21 {
+  top: 8px;
+  left: 93px;
+  width: 98px;
+  height: 0px;
+  position: absolute;
+}
+.tablet-find-parking-text23 {
+  top: 28px;
+  left: 114px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-text25 {
+  top: 71px;
+  left: 114px;
+  color: rgba(0, 0, 0, 1);
+  width: 326px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tablet-find-parking-text27 {
+  top: 139px;
+  left: 39px;
+  color: rgba(33, 37, 41, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.tablet-find-parking-findparkingmap {
+  top: 195px;
+  left: 260px;
+  width: 437px;
+  height: 500px;
+  position: absolute;
+  border-color: rgba(11, 114, 133, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+}

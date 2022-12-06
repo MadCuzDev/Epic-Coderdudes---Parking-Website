@@ -1,0 +1,597 @@
+.mobile-payments-container {
+  min-height: 100vh;
+}
+.mobile-payments-mobile-payments {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(11, 114, 133, 1);
+}
+.mobile-payments-mobile-nav-bar {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 91px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.mobile-payments-nav-bounds {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 91px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.mobile-payments-nav-bounds1 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 91px;
+  position: absolute;
+  border-color: transparent;
+}
+.mobile-payments-group1 {
+  top: 61px;
+  left: 5.954198360443115px;
+  width: 89.31297302246094px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 184, 207, 1);
+}
+.mobile-payments-text {
+  top: 6.095237731933594px;
+  left: 27.7862606048584px;
+  color: rgba(255, 255, 255, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-group2 {
+  top: 61px;
+  left: 102.21373748779297px;
+  width: 89.31298065185547px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 184, 207, 1);
+}
+.mobile-payments-text02 {
+  top: 6px;
+  left: 2.9771041870117188px;
+  color: rgba(242, 242, 242, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-group3 {
+  top: 61px;
+  left: 198.47328186035156px;
+  width: 89.31297302246094px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(11, 114, 133, 1);
+}
+.mobile-payments-text04 {
+  top: 6px;
+  left: 12.9007568359375px;
+  color: rgba(242, 242, 242, 1);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-group4 {
+  top: 61px;
+  left: 294.7328186035156px;
+  width: 89.31298828125px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 184, 207, 1);
+}
+.mobile-payments-text06 {
+  top: 5px;
+  left: 25.801544189453125px;
+  color: rgba(242, 242, 242, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-car-side-view {
+  top: 8px;
+  left: 324.5038146972656px;
+  width: 57px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.mobile-payments-ellipse1 {
+  top: 26.285715103149414px;
+  left: 36.85933303833008px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.mobile-payments-ellipse2 {
+  top: 25.714284896850586px;
+  left: 7.371866226196289px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.mobile-payments-rectangle2 {
+  top: 1.7142857313156128px;
+  left: 6.804800033569336px;
+  width: 35px;
+  height: 23px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.mobile-payments-car-side-view1 {
+  top: 0px;
+  left: 0px;
+  width: 57px;
+  height: 40px;
+  position: absolute;
+}
+.mobile-payments-lowercontentbounds {
+  top: 109px;
+  left: 9px;
+  width: 375px;
+  height: 724px;
+  position: absolute;
+  border-color: rgba(34, 184, 207, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 0 0 5px 5px;
+}
+.mobile-payments-findparkingcard4 {
+  top: 150px;
+  left: 21px;
+  width: 265px;
+  height: 78px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(222, 226, 230, 1);
+}
+.mobile-payments-text08 {
+  top: 19px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-text13 {
+  top: 32px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 22px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-text15 {
+  top: 36px;
+  left: 34px;
+  color: rgba(0, 0, 0, 1);
+  width: 16px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-text17 {
+  top: 51px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 189px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-line2 {
+  top: 7px;
+  left: 59px;
+  width: 65px;
+  height: 0px;
+  position: absolute;
+}
+.mobile-payments-text19 {
+  top: 119px;
+  left: 19px;
+  color: rgba(33, 37, 41, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mobile-payments-form {
+  top: 240px;
+  left: 19px;
+  width: 324px;
+  height: 376px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(222, 226, 230, 1);
+}
+.mobile-payments-text21 {
+  top: 287px;
+  left: 255px;
+  color: rgba(73, 80, 87, 1);
+  width: 55px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-inputlabels {
+  top: 25px;
+  left: 17.000099182128906px;
+  width: 147px;
+  height: 276px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.mobile-payments-text23 {
+  top: 153px;
+  left: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 109px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-text25 {
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-text27 {
+  top: 257px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-text29 {
+  top: 76px;
+  color: rgba(0, 0, 0, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mobile-payments-textinputs {
+  top: 50px;
+  left: 15.000099182128906px;
+  width: 188px;
+  height: 184px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.mobile-payments-rectangle20 {
+  top: 155px;
+  left: 0px;
+  width: 188px;
+  height: 29px;
+  position: absolute;
+  border-color: rgba(34, 184, 207, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.mobile-payments-rectangle17 {
+  top: 77px;
+  left: 0px;
+  width: 155px;
+  height: 29px;
+  position: absolute;
+  border-color: rgba(34, 184, 207, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.mobile-payments-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 188px;
+  height: 29px;
+  position: absolute;
+  border-color: rgba(34, 184, 207, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+}
+.mobile-payments-calendaricon {
+  top: 4px;
+  left: 163px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.mobile-payments-line5 {
+  top: 318px;
+  left: 5px;
+  width: 314px;
+  height: 0px;
+  position: absolute;
+}
+.mobile-payments-paynowbutton {
+  top: 336px;
+  left: 229px;
+  width: 84px;
+  height: 25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(34, 184, 207, 1);
+}
+.mobile-payments-text31 {
+  top: 5px;
+  left: 13px;
+  color: rgba(255, 255, 255, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
